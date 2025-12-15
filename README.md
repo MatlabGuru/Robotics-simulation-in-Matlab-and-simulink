@@ -5,6 +5,9 @@ The PID-controlled robot follows a feedback-based approach for path correction, 
 This setup allowed for detailed performance comparison in terms of path accuracy, adaptability, and response to disturbances. 
 The project highlights my ability to integrate traditional, intelligent, and rule-based control systems within a unified simulation environment, emphasizing strengths in control engineering, fuzzy systems, and robotics modeling.
 
+For complete guide on how to open this project visit
+https://youtu.be/2BRlZTp9aio?si=7iFSI0Inn3gjFAaQ
+
 
 <img width="1606" height="813" alt="Visualizer2DScreenshot2" src="https://github.com/user-attachments/assets/aa6480ec-247f-45af-aed0-880b3815742e" />
 
